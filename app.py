@@ -78,4 +78,5 @@ if st.button("Convert"):
 
 # --- Footer ---
 st.markdown("---")
-st.caption("🌍 Made with Streamlit & SQLite | Example project by Narasimha")
+
+st.caption("🌍 Made with Streamlit & SQLite | project by Nandhakumar , Narasimha and Omkar")
