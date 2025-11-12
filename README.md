@@ -114,8 +114,10 @@ You can easily host this project online for **free**:
 
 ## 🧑‍💻 Author
 
-**👨‍🎓 Narasimha**
-2nd Year Engineering Student
+**👨‍🎓 R.Ugra Narasimha Reddy**
+**👨‍🎓 S.Nandha Kumar**
+**👨‍🎓 Omkar Pranav**
+2nd Year Engineering Students
 Project: *Currency Converter using Streamlit and SQLite*
 
 ---
